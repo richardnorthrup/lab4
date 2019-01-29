@@ -26,3 +26,10 @@ RPICourseTrends
 First commit: a1e873f150f62158a074b5c784def0f87b186c9a 'Initial commit'  
 Latest commit: ad8be1be0f286872b6a44928bbaf6b4d536f2ec9 'Update README.md'  
 Current branch: master  
+
+RPEye Analysis  
+Number of Contributors: 18  
+Number of lines of code: 76224  
+First commit: 91d45a2a945f4ee225c405d334f688561973b8ad Oct. 1, 2018  
+Latest commit: f4d9c1db0415656d38a4dd3e39ed6b17578a5ec1 Jan. 22, 2019  
+Current branches: master, Crawler, Indexing, Link-Analysis, Ranking, Text-Transformation, UI-UX  
