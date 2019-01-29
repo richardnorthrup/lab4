@@ -1,4 +1,4 @@
-This is lab3.md  
+This is lab3.md 
 ## RPI Campus Map:  
 4 contribs  
 22309 lines  
@@ -44,3 +44,7 @@ Latest commit: f4d9c1db0415656d38a4dd3e39ed6b17578a5ec1 Jan. 22, 2019
 Current branches: master, Crawler, Indexing, Link-Analysis, Ranking, Text-Transformation, UI-UX  
 ![GroUber](eye.jpeg)  
 comment: Lines of code seem to be off, age is correct. 
+
+## Youtube Links  
+The following is a link to a youtube playlist that contains my groups (table 7) gource videos.  
+https://www.youtube.com/playlist?list=PLqK4XFvVMI8WY_5vDILij_2Bfbp2nEowM  
