@@ -50,7 +50,7 @@ The following is a link to a youtube playlist that contains my groups (table 7) 
 https://www.youtube.com/playlist?list=PLqK4XFvVMI8WY_5vDILij_2Bfbp2nEowM  
 
 ## Part 2
-![GroUber](unittest.jpeg) 
+![GroUber](unittest.png) 
 links to code:  
 https://github.com/richardnorthrup/markdown.py/blob/master/markdown.py  
 https://github.com/richardnorthrup/markdown.py/blob/master/test_markdown_unittest.py
