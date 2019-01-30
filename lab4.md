@@ -1,4 +1,4 @@
-This is lab3.md 
+This is lab3.md  
 ## RPI Campus Map:  
 4 contribs  
 22309 lines  
